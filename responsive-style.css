@@ -46,6 +46,13 @@
         max-width : 80%;
     }
     /* 02 banner section*/
+    .banner_section{
+        min-height: 70vh;
+    }
+    .banner_section .carousel-item{
+        height:70vh;
+
+    }
 }
 
 /*Media Query 590 px*/
